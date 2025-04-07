@@ -36,11 +36,11 @@ mpv playerctl python3 python3-pip
 pip install colorama mutagen
 
 # Projeyi indirin
-git clone https://github.com/kullaniciadiniz/void-music.git
+git clone https://github.com/SyewaN/Termus.git
 cd termus-music
 
 # Çalıştırma iznini verin
-chmod +x voidmusic.py
+chmod +x termus.py
 
 # Çalıştırın
 ./voidmusic.py
@@ -70,7 +70,7 @@ Program çalıştırıldığında aşağıdaki komutlar kullanılabilir:
 | help, h      | Yardım menüsü                          |
 | quit, q      | Çıkış                                  |
 
-## Ekran Görüntüleri
+## Ekran Görüntüleri (eklenecek)
 
 ```
 ==== VoidMusic Player ====
