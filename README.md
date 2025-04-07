@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Termus, Void Linux için özel olarak geliştirilmiş basit ve kullanışlı bir konsol tabanlı müzik çalardır. MPV üzerine kurulmuştur ve basit, hızlı ve şık bir arayüz sunar.
+Termus,Linux için özel olarak geliştirilmiş basit ve kullanışlı bir konsol tabanlı müzik çalardır. MPV üzerine kurulmuştur ve basit, hızlı ve şık bir arayüz sunar.
 
 ## Özellikler
 
@@ -76,7 +76,7 @@ Program çalıştırıldığında aşağıdaki komutlar kullanılabilir:
 ```
 ==== VoidMusic Player ====
 █████████████████░░░░░░░░░░░░░░░░░░░ 01:45/03:30
-► Çalınıyor: Daft Punk - Get Lucky.mp3
+► Çalınıyor: Burinov - VDVsong.mp3
 Ses: %60 | Mod: Tümünü Tekrarla
 ==========================
 ```
