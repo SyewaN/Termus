@@ -1,11 +1,10 @@
-# Termus
 # VoidMusic - Void Linux için Basit Konsol Müzik Çalar
 
 ![VoidMusic](https://img.shields.io/badge/VoidMusic-v1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-VoidMusic, Void Linux için özel olarak geliştirilmiş basit ve kullanışlı bir konsol tabanlı müzik çalardır. MPV üzerine kurulmuştur ve basit, hızlı ve şık bir arayüz sunar.
+Termus, Void Linux için özel olarak geliştirilmiş basit ve kullanışlı bir konsol tabanlı müzik çalardır. MPV üzerine kurulmuştur ve basit, hızlı ve şık bir arayüz sunar.
 
 ## Özellikler
 
@@ -30,15 +29,15 @@ VoidMusic, Void Linux için özel olarak geliştirilmiş basit ve kullanışlı 
 ## Kurulum
 
 ```bash
-# Gerekli paketleri yükleyin
-sudo xbps-install -S mpv playerctl python3 python3-pip
+# Gerekli Paketler
+mpv playerctl python3 python3-pip
 
 # Python kütüphanelerini yükleyin
 pip install colorama mutagen
 
 # Projeyi indirin
 git clone https://github.com/kullaniciadiniz/void-music.git
-cd void-music
+cd termus-music
 
 # Çalıştırma iznini verin
 chmod +x voidmusic.py
