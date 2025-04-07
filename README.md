@@ -41,7 +41,7 @@ cd Termus/
 
 
 # Çalıştırma iznini verin
-chmod +x termus.py
+chmod +x Termus.py
 
 # Çalıştırın
 ./Termus.py
