@@ -1,4 +1,4 @@
-# VoidMusic - Void Linux için Basit Konsol Müzik Çalar
+# Termus - Linux için Basit Konsol Müzik Çalar
 
 ![VoidMusic](https://img.shields.io/badge/VoidMusic-v1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
@@ -82,7 +82,7 @@ Ses: %60 | Mod: Tümünü Tekrarla
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
+Bu proje GNU GENERAL PUBLIC LICENSE lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
 ## Katkıda Bulunma
 
