@@ -1,6 +1,6 @@
 # Termus - Linux için Basit Konsol Müzik Çalar
 
-![Termus](https://img.shields.io/badge/VoidMusic-v1.0-blue)
+![Termus](https://img.shields.io/badge/Termus-v1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
