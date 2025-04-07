@@ -44,7 +44,7 @@ cd Termus/
 chmod +x termus.py
 
 # Çalıştırın
-./voidmusic.py
+./Termus.py
 ```
 
 ## Kullanım
