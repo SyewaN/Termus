@@ -37,7 +37,8 @@ pip install colorama mutagen
 
 # Projeyi indirin
 git clone https://github.com/SyewaN/Termus.git
-cd termus
+cd Termus/
+
 
 # Çalıştırma iznini verin
 chmod +x termus.py
