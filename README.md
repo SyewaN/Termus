@@ -37,7 +37,7 @@ pip install colorama mutagen
 
 # Projeyi indirin
 git clone https://github.com/SyewaN/Termus.git
-cd termus-music
+cd termus
 
 # Çalıştırma iznini verin
 chmod +x termus.py
